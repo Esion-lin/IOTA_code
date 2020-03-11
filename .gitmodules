@@ -1,0 +1,6 @@
+[submodule "libhotstuff"]
+	path = libhotstuff
+	url = https://github.com/Esion-lin/libhotstuff.git
+[submodule "compass"]
+	path = compass
+	url = https://github.com/Esion-lin/compass.git
