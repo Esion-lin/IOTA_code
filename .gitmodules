@@ -4,3 +4,6 @@
 [submodule "compass"]
 	path = compass
 	url = https://github.com/Esion-lin/compass.git
+[submodule "iri"]
+	path = iri
+	url = https://github.com/Esion-lin/iri.git
